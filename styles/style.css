@@ -11,7 +11,7 @@ h3 {
     text-align: center;
     height: 30px;
     padding: 1rem;
-    background:rgb(229, 206, 174, 0.2);
+    background:rgba(229, 206, 174, 0.2);
 }
 
 ul {
@@ -87,10 +87,12 @@ footer {
     padding: 1.25rem;
     background: #111;
     text-align: center;
+    color: #fff;
+
 }
 .footer li {
     display: inline-block;
-    color: #fff;
+   
     
 }
 
