@@ -1,0 +1,46 @@
+body {
+    max-width: 1024px;
+    background:azure;
+    font: 300 16px/22px "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+}
+
+a {
+    color: #648880;
+    text-decoration: none;
+}
+
+.nav {
+    text-align: center;
+    height: 50px;
+    padding: 1.25rem;
+    background-color: #111;
+    color: #fff;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+
+.nav li:last-child {
+    margin-right: 0;
+  
+}
+
+
+
+.logo {
+     float: left;
+     
+}
+
+.photo {
+    float: left;
+    margin-right: 20px;
+}
+
+section {
+    border-top: 1px solid azure;
+}
