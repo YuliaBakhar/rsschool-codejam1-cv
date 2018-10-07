@@ -53,7 +53,7 @@ section{
     text-align: center;
     height: 50px;
     padding: 1.25rem;
-    background-color: #111;
+    background-color:#111;
     color: #fff;
 }
 
@@ -80,5 +80,17 @@ section{
 img {
     border-radius: 20px;
     border: 1px solid white;
+}
+
+footer {
+    height: 50px;
+    padding: 1.25rem;
+    background: #111;
+    text-align: center;
+}
+.footer li {
+    display: inline-block;
+    color: #fff;
+    
 }
 
